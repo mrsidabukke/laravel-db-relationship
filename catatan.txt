@@ -1,0 +1,3 @@
+1. jika ingin membuat relasi many to many harus ada tabel penghubungnya dengan mengikuti tabel mana yang abjadnya lebih kecil
+
+2.polymorpic adalah ketika satu tabel memililiki suatu informasi tentang lebih dari satu table lainnya
